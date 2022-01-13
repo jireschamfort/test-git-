@@ -1,0 +1,11 @@
+https://www.ionos.fr/digitalguide/sites-internet/developpement-web/tutoriel-jenkins/
+
+https://objis.com/tutoriel-maven-n14-build-automatises-avec-jenkins/
+
+https://labs.play-with-k8s.com/#
+https://www.katacoda.com/courses/kubernetes/
+
+https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
+
+
+https://cursus-janvier2020.uptime-formation.fr/03-kubernetes/
